@@ -1,2 +1,2 @@
 简单粗暴的使用方法:
-直接clone放在项目中,引入即可
+直接clone放在项目中,引入继承AbstractRepository就可以
